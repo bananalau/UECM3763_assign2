@@ -1,0 +1,32 @@
+1 1295 Public Bank BHD Banks 11.84 11.60 -0.24 0.24
+2 1155 Malayan Banking Banks 8.82 9.32 0.50 0.50
+3 5347 Tenaga Nasional Alternative Electricity 9.48 9.28 -0.20 0.20
+4 1023 CIMB Group Holdings Banks 5.74 5.76 0.01 0.01
+5 6888 Axiata Group Bhd Mobile Telecommunications 5.63 5.62 -0.01 0.01
+6 4197 Sime Darby Bhd Diversified Industrials 5.43 5.51 0.08 0.08
+7 6947 Digi.com Mobile Telecommunications 4.24 4.16 -0.09 0.09
+8 3182 Genting Hotels 3.76 3.68 -0.08 0.08
+9 5183 PETRONAS Chemicals Group Bhd Commodity Chemicals 3.63 3.55 -0.07 0.07
+10 6012 Maxis Bhd Mobile Telecommunications 3.52 3.45 -0.07 0.07
+11 6033 Petronas Gas Exploration & Production 3.47 3.40 -0.07 0.07
+12 5225 IHH Healthcare Health Care Providers 3.28 3.28 0.00 0.00
+13 1961 IOI Farming & Fishing 3.05 2.99 -0.06 0.06
+14 4863 Telekom Malaysia Fixed Line Telecommunications 2.91 2.96 0.05 0.05
+15 4715 Genting Malaysia BHD Hotels 2.56 2.50 -0.05 0.05
+16 3816 MISC Marine Transportation 2.51 2.45 -0.05 0.05
+17 1015 AMMB Holdings Banks 2.20 2.38 0.18 0.18
+18 2445 Kuala Lumpur Kepong Farming & Fishing 2.33 2.28 -0.05 0.05
+19 5218 SapuraKencana Petroleum Oil Equipment & Services 2.02 1.98 -0.04 0.04
+20 4065 PPB Group Food Products 1.84 1.80 -0.04 0.04
+21 4162 British American Tobacco (Malaysia) Tobacco 1.73 1.70 -0.04 0.04
+22 5819 Hong Leong Bank Banks 1.70 1.67 -0.04 0.04
+23 4677 YTL Corp Multiutilities 1.67 1.63 -0.03 0.03
+24 4588 UMW Holdings Automobiles 1.40 1.37 -0.03 0.03
+25 6399 Astro Malaysia Holdings Broadcasting & Entertainment 0.96 1.22 0.26 0.26
+26 5681 Petronas Dagangan Bhd Integrated Oil & Gas 1.24 1.21 -0.03 0.03
+27 1066 RHB Capital Banks 1.03 1.06 0.02 0.02
+28 5246 Westports Holdings Transportation Services 0.00 0.93 0.93 0.93
+29 1082 Hong Leong Financial Banks 0.66 0.64 -0.01 0.01
+30 5235SS KLCC Prop&Reits-Stapled Sec Real Estate Holding & Development 0.64 0.63 -0.01 0.01
+- 5222 Felda Global Ventures Holdings Farming & Fishing 0.70 0.00 -0.70 0.70
+Totals - 100.00 100.00 - 4.05
